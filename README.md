@@ -7,14 +7,14 @@ This application is a translation workflow management system built using the Cre
 ## Installation
 
 1. Clone the repository:
-bash
+
 ```
-git clone 
+git clone git@github.com:wbsuh/trans-crewai.git
 ```
 
 2. Install the required dependencies:
 
-python
+
 ```
 pip install -r requirements.txt
 ```
@@ -61,7 +61,7 @@ The application allows you to define custom tasks and agents in the `tasks.py` a
 - Create a `Crew` object with the desired agents and tasks.
 3. Run the application:
 
-python
+
 ```
 python main.py
 ```
